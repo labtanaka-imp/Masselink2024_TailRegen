@@ -11,7 +11,6 @@ library(DoubletFinder)
 library(harmony)
 library(reshape2)
 library(dplyr)
-library(SeuratData)
 library(SeuratDisk)
 
 #Convert h5ad to seurat
